@@ -5,13 +5,14 @@
 ###
 
 Я специалист DS/DA с опытом 1 год. Предыдущий опыт –  более 9 лет проектирования объектов транспортной инфраструктуры: аэродромы, дороги, генплан промпредприятий.
-•	Работаю с фреймворками Sklearn, Keras, TensorFlow и другими, в зависимости от задач.
-•	Умею создавать и обучать классические, а также NLP и CV модели.
-•	Есть знания в матстате и тервере и a/b тестах.
+-	Работаю с фреймворками Sklearn, Keras, TensorFlow и другими, в зависимости от задач.
+-	Умею создавать и обучать классические, а также NLP и CV модели.
+-	Есть знания в матстате и тервере и a/b тестах.
+  
 Стек:
-•	Инструменты для анализа данных: Python, Pandas, Matplotlib, NumPy, Seaborn, SQL, Plotly, Statmodels
-•	Машинное обучение: Sklearn, Xgboost, Catboost, LightGBM
-•	Нейронные сети: TensorFlow.keras, Keras, BERT
+-	Инструменты для анализа данных: Python, Pandas, Matplotlib, NumPy, Seaborn, SQL, Plotly, Statmodels
+-	Машинное обучение: Sklearn, Xgboost, Catboost, LightGBM
+-	Нейронные сети: TensorFlow.keras, Keras, BERT
 
 ###
 <div align="center">
